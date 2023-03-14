@@ -1,0 +1,4 @@
+**data/landsat_st/lakes_hylak/*.csv
+**data/landsat_st/lakes_simstrat/*.csv
+**plots/*.png
+notebooks/.ipynb_checkpoints/

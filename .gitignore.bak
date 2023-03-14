@@ -1,0 +1,5 @@
+**data/landsat_st/hylak/*.csv
+**data/landsat_st/simstrat/*.csv
+**plots/*.png
+notebooks/.ipynb_checkpoints/
+env/
