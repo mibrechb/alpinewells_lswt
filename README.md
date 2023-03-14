@@ -1,6 +1,6 @@
 # AlpLakes_LSWT
 
-The temperature data in this repository consists of aggregated (median) Landsat ST (Collection 2, Level 2) data from 1982-08-22 to present (using L4, L5, L7, L8, L9) based on this [GEE script](https://code.earthengine.google.com/a0742a9bb6329d5925cc5ba7e4a1ce4a?noload=true).
+The temperature data in this repository consists of aggregated (median) Landsat ST (Collection 2, Level 2) data from 1982-08-22 to present (using L4, L5, L7, L8, L9) based on this [GEE script](https://code.earthengine.google.com/a0742a9bb6329d5925cc5ba7e4a1ce4a?noload=true). Alternatively, this [GEE script](https://code.earthengine.google.com/e5df6e79d2e54eb66e72e4bdab89222c?noload=true) can be used to extract datapoints for a single lake (including hand drawn polygons) and inspect the associated RGB/TIR scenes.
 
 ## Data columns:
 | Column            | Description                                           |
