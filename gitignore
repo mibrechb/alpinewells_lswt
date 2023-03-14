@@ -1,1 +1,4 @@
-*.csv
+data/landsat_st/unzipped/
+plots/
+notebooks/
+env/
