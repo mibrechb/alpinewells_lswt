@@ -34,7 +34,7 @@ Landsat scenes are water- and cloud-masked with the following included [CFMASK](
 | 1       | Dilated Cloud            | Off        |
 | 3       | Cloud                    | Off        |
 | 4       | Cloud Shadow             | Off        |
-| 7       | Water                    | On         |
+| 7       | Water                    | On (onlywater) / Off         |
 
 
 ## EE datasets and documentations
