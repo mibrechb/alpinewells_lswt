@@ -1,1 +1,1 @@
-# AlpLakes_landsat_st
+# AlpLakes_lswt
