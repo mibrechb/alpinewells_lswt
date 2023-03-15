@@ -6,7 +6,7 @@ The temperature data in this repository consists of aggregated (median) Landsat 
 | Column            | Description                                           |
 |:-------------     | -------------                                         |
 | LANDSAT_SCENE_ID  | Short Landsat Scene Identifier                        |
-| ST                | Aggregated ST (K)                                     |
+| ST                | Aggregated (median) ST (K)                            |
 | ST_CDIST          | Distance to cloud (km)                                |
 | ST_QA             | Uncertainty of the Surface Temperature band (K) *     |
 | coverage          | Percentage of unmasked lake area                      |
