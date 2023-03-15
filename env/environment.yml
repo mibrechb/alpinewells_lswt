@@ -1,4 +1,4 @@
-name: alplakes
+name: alpinewells
 channels:
   - conda-forge
   - defaults
